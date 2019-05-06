@@ -1,0 +1,26 @@
+# Created by Octave 4.4.1, Sun May 05 15:25:41 2019 CST <cengzhiyuan@cengzhiyuandeMacBook-Air.local>
+# name: a1
+# type: scalar
+99.714693295292449
+
+
+# name: a2
+# type: scalar
+96.333333333333343
+
+
+# name: a3
+# type: scalar
+100
+
+
+# name: a4
+# type: scalar
+99.537037037037038
+
+
+# name: a5
+# type: scalar
+99.565846599131689
+
+

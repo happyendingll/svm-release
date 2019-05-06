@@ -1,0 +1,21 @@
+# Created by Octave 4.4.1, Mon May 06 15:25:32 2019 CST <cengzhiyuan@cengzhiyuandeMacBook-Air.local>
+# name: p0
+# type: scalar
+1.068660317161739
+
+
+# name: p1
+# type: scalar
+1.0255998549167871
+
+
+# name: p2
+# type: scalar
+0.34422224680988789
+
+
+# name: p3
+# type: scalar
+0.87638629221687692
+
+
